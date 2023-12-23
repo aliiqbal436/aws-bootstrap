@@ -1,0 +1,10 @@
+{
+    "Parameters": [
+      {
+        "EC2_INSTANCE_TYPE": "t2.micro",
+        "STACK_NAME": "awsbootstrap",
+        "CLI_PROFILE": "awsbootstrap",
+        "REGION": "us-east-1"
+      }
+   ]
+  }
